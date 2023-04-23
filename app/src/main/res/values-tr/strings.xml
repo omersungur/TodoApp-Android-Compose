@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yapılacaklar Listesi</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="title_hint">Başlık...</string>
+    <string name="title_description">Açıklama...</string>
+    <string name="timeToFinishTask">Tamamlanması Gereken Tarih</string>
+    <string name="alarmTime">Bildirim Zamanı Ayarla (İsteğe Bağlı)</string>
+    <string name="pickAlarmDate">Notifikasyon alarmı alabilmek için tarih seçiniz</string>
+    <string name="pickAlarmTime">Notifikasyon alarmı alabilmek için saat seçiniz</string>
+    <string name="pickTaskDate">Görevi tamamlamak için tarih seçiniz</string>
+    <string name="pickTaskTime">Görevi tamamlamak için saat seçiniz</string>
+    <string name="title_main_screen">GÖREVLER</string>
+    <string name="radioButtonColor">Renk</string>
+    <string name="radioButtonDate">Tarih</string>
+    <string name="radioButtonTitle">Başlık</string>
+    <string name="timerStart">BAŞLAT</string>
+    <string name="timerStop">DURDUR</string>
+    <string name="timerResume">DEVAM</string>
+    <string name="timerReset">SIFIRLA</string>
+    <string name="timerStopNotification">Durdur</string>
+    <string name="timerCancelNotification">Kapat</string>
+    <string name="titleTimerNotification">Zamanlayıcı</string>
+    <string name="taskNavName">Görevler</string>
+    <string name="createTaskNavName">Görev Oluştur</string>
+    <string name="timerNavName">Zamanlayıcı</string>
+    <string name="emptyTitleWarning">Başlık kısmını boş bırakmayınız</string>
+    <string name="emptyDateWarning">Lütfen tamamlanması gereken tarihi seçiniz</string>
+    <string name="emptyDescriptionWarning">Açıklama kısmını boş bırakmayınız</string>
+    <string name="notification_message">Görevin seni bekliyor</string>
+    <string name="title_notification">Yapılacaklar Uygulaması</string>
+    <string name="alarm_warning">İleri bir tarih seçtiğinizden emin olunuz</string>
+    <string name="taskTitleContentDescription">Görevinizle ilgili başlık giriniz</string>
+    <string name="taskDescriptionContentDescription">Görevinizle ilgili açıklama satırı giriniz</string>
+
+</resources>

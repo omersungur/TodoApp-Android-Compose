@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Task List</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="title_hint">Title...</string>
+    <string name="title_description">Description...</string>
+    <string name="timeToFinishTask">Time to Complete</string>
+    <string name="alarmTime">Set Notification Time (Optional)</string>
+    <string name="pickAlarmDate">Pick a date for the notification alarm</string>
+    <string name="pickAlarmTime">Pick a time for the notification alarm</string>
+    <string name="pickTaskDate">"Pick a date to complete the task"</string>
+    <string name="pickTaskTime">Pick a time to complete the task</string>
+    <string name="title_main_screen">TASK LIST</string>
+    <string name="radioButtonColor">Color</string>
+    <string name="radioButtonDate">Date</string>
+    <string name="timerStart">START</string>
+    <string name="timerStop">STOP</string>
+    <string name="timerResume">RESUME</string>
+    <string name="radioButtonTitle">Title</string>
+    <string name="timerReset">RESET</string>
+    <string name="timerStopNotification">Stop</string>
+    <string name="timerCancelNotification">Close</string>
+    <string name="titleTimerNotification">Task List App Timer</string>
+    <string name="taskNavName">Tasks</string>
+    <string name="createTaskNavName">Create Task</string>
+    <string name="timerNavName">Timer</string>
+    <string name="emptyTitleWarning">The title can\'t be empty</string>
+    <string name="emptyDateWarning">Pick a date please</string>
+    <string name="emptyDescriptionWarning">The description can\'t be empty</string>
+    <string name="notification_message">Your task is waiting for you</string>
+    <string name="title_notification">Task Application</string>
+    <string name="alarm_warning">Be sure to pick a future date</string>
+    <string name="taskTitleContentDescription">Enter a title about your task</string>
+    <string name="taskDescriptionContentDescription">Enter a title about your task</string>
+
+
+</resources>
