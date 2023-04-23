@@ -2,7 +2,7 @@
 
 <ul>
   <li>MVVM + Clean Architecture</li>
-  <li>Compose</li>
+  <li>Jetpack Compose</li>
   <li>Room Database</li>
   <li>Coroutine</li>
   <li>Flow - SharedFlow</li>
