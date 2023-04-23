@@ -2,7 +2,7 @@
 
 <h4> It is an application where you can take notes of the things you will do during the day. You can specify and save the title and description of the work you will do, as well as the date on which it will be done. In addition, you can receive a reminder notification for a time you set about your task. You can choose from 5 different background colors while recording your tasks. On the main screen, you can see the title, description, date of the tasks you have saved and whether the notification is active or not. You have the possibility to sort the tasks by the time they need to be completed, by alphabetical order of the task titles or by the background color of the tasks. Finally, there is a timer in the application and with this timer you can control the duration of your work or use it for any work.  Turkish language option has been added with the last update. </h4>
 
-<h1> Structures Used </h1>
+<h1> Structures Used in The Project</h1>
 
 <ul>
   <li>MVVM + Clean Architecture</li>
