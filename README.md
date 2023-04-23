@@ -1,4 +1,4 @@
-<h2> Structures Used </h2>
+<h1> Structures Used </h1>
 
 <ul>
   <li>MVVM + Clean Architecture</li>
