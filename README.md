@@ -21,8 +21,7 @@
   <li>Multi-Language Support</li>
 </ul>
 
-Source: Philipp Lackner
-
+- While coding this application, I used the source of Philipp Lackner.
 
 <img src="https://user-images.githubusercontent.com/70448538/233815343-dad0d176-81df-4f6a-be7c-36f6505df618.png" width="330" height="700">
 <img src="https://user-images.githubusercontent.com/70448538/233815344-e8e372d0-d8b0-4f11-9523-7b9d0b015952.png" width="330" height="700">
