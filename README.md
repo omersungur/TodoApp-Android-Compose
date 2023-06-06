@@ -21,6 +21,8 @@
   <li>Multi-Language Support</li>
 </ul>
 
+Play Store: https://play.google.com/store/apps/details?id=com.omersungur.todoapp_android_compose_playstore
+
 <h4> While coding this application, I used the source of Philipp Lackner. </h4>
 
 <img src="https://user-images.githubusercontent.com/70448538/233815343-dad0d176-81df-4f6a-be7c-36f6505df618.png" width="330" height="700">
